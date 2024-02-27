@@ -1,2 +1,2 @@
-# hello-class
+# hello-world
 Short description
